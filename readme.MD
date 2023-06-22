@@ -15,6 +15,7 @@ The following list are the first sites which are available as a v3 .onion hidden
 
 ### Ghost Contracts - Murder for Hire
 - http://szqn27r2sjeq4atamtnccv6q4qv7yuidydhrtyolr5zicqnl76xwq2qd.onion/
+- ghostcontracts@proton.me if the site is down. 
 
 ## Hidden Wiki Editor’s picks
 > Some of the most interesting sites on The Hidden Wiki and the dark web
